@@ -1,1 +1,0 @@
-import{_ as e,c as l,o as i,ae as t}from"./chunks/framework.BGjk28iD.js";const c=JSON.parse('{"title":"开始","description":"","frontmatter":{},"headers":[],"relativePath":"start.md","filePath":"start.md"}'),r={name:"start.md"};function s(d,a,o,h,n,m){return i(),l("div",null,[...a[0]||(a[0]=[t("",10)])])}const f=e(r,[["render",s]]);export{c as __pageData,f as default};
